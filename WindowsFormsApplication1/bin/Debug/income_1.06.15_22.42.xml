@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <income>
+    <articlesType>Аванс</articlesType>
+    <Column1>125.0000</Column1>
+  </income>
+  <income>
+    <articlesType>Зарплата</articlesType>
+    <Column1>229.5000</Column1>
+  </income>
+</DocumentElement>

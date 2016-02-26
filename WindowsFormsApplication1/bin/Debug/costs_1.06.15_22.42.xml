@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <costs>
+    <articlesType>Одежда</articlesType>
+    <Column1>31.0000</Column1>
+  </costs>
+  <costs>
+    <articlesType>Продукты</articlesType>
+    <Column1>131.0000</Column1>
+  </costs>
+  <costs>
+    <articlesType>Транспорт</articlesType>
+    <Column1>197.0000</Column1>
+  </costs>
+</DocumentElement>
